@@ -9,6 +9,7 @@ public class Class1Test {
 	public void class1() {
 		Reporter.log("---------------Hiii----------------",true);
 		Reporter.log("-------HiiiHello-------",true);
+		Reporter.log("-------------egfusc--------------",true);
 
 	}
 
